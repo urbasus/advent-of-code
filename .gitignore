@@ -1,6 +1,9 @@
 # Object file
 *.o
 
+# Executables
+*.exe
+
 # Ada Library Information
 *.ali
 
